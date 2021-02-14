@@ -1,5 +1,5 @@
 # BigTeacherIsWatching
-HackInPlace Feb2021 Project by Chuwei (Chewy) Guo, Aaron Chen, Zijie (Jerry) Wu, Khaing Su Yin (Alice)
+(1st Place!) HackInPlace Feb2021 Project by Chuwei (Chewy) Guo, Aaron Chen, Zijie (Jerry) Wu, Khaing Su Yin (Alice) 
 
 <h1> Objective </h1>
 <p>
