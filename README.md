@@ -1,5 +1,12 @@
 # BigTeacherIsWatching
 (1st Place!) HackInPlace Feb2021 Project by Chuwei (Chewy) Guo, Aaron Chen, Zijie (Jerry) Wu, Khaing Su Yin (Alice) 
+<p>
+    Video Submission: https://www.youtube.com/watch?v=IvAwcaTBPv8&feature=youtu.be
+</p>
+
+<p>
+    This is a continuation of our hackathon project (original on Chuwei's Repo) so it's a downloadable software package.
+</p>
 
 <h1> Objective </h1>
 <p>
