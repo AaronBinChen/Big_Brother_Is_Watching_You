@@ -8,6 +8,27 @@ HackInPlace Feb2021 Project by Chuwei (Chewy) Guo, Aaron Chen, Zijie (Jerry) Wu,
     This is a continuation of our hackathon project (original on Chuwei's Repo) so it's a downloadable software package.
 </p>
 
+## Running the software
+The app uses Flask, OpenCv, and MatPlotLib. First download these requirements:
+```
+pip install -r requirements.txt
+```
+
+if on Mac or Linux run the following to run the app:
+```
+export FLASK_APP=app.py
+flask run
+```
+
+If on Windows run the following
+```
+set FLASK_APP = app
+flask run
+```
+
+enjoy!
+
+
 <h1> Objective </h1>
 <p>
     This project was done for the Hack in Place Hackathon. There were four challenges available: Home, Economy, Health, and Education.
