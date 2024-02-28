@@ -65,20 +65,20 @@ enjoy!
 
 <h3> Team Choice </h3>
 <p> 
-    Our team was originally stuck between the theme of Education and Home. Specifically, the issues of climate change and carbon footprint tracking from Home and the anti-cheating mechanism for Education. We ultimately elected to pursue the theme of Education. During the COVID pandemic and the transition to online learning, there has been an increase in academic dishonesty accusations and cheating. But, this already has a solution technologically with lockdown browsers and proctoring during live exams. However, the biggest issue of all was the difficulty in transition from a physical classroom experience to an fully online classroom experience.
+    Our team was originally stuck between the theme of Education and Home. Specifically, the issues of climate change and carbon footprint tracking from Home and the anti-cheating mechanism for Education. We ultimately elected to pursue the theme of Education. During the COVID pandemic and the transition to online learning, there has been an increase in academic dishonesty accusations and cheating. But, this already has a solution technologically with lockdown browsers and proctoring during live exams. However, the biggest issue of the COVID pandemic was the difficulty transitioning from a physical classroom experience to a fully online classroom experience.
 </p>
 
 <p>
-    Many professors noted that their students did worse during the online setting. In addition, many teachers were not able to fully gauge their student's level of understanding of the material. This can perhaps be due to a lack of attention during classtime.
+    Many professors noted that their students did worse during the online setting. In addition, many teachers were not able to fully gauge their student's level of understanding of the material. This can perhaps be due to a lack of attention during class time.
 </p>
 
 <p>
-    Our prototype can serve as an additional feature on Zoom, where student's eyes will be tracked. If they look away, it will be flagged and perhaps, the professor can come back to review these moments. This can give the professor a sense of when a student lost focus and what can potentially be reviewed in the coming days.
+    Our prototype can serve as an additional feature on Zoom, where student's eyes are tracked. If they look away, it will be flagged; perhaps, the professor can review these moments. This allows the professor to understand when students lose focus and what material should potentially be reviewed in the coming days. 
 </p>
 
 <h3> Pupil Tracking </h3>
 
-<b>Possible Introduction<b>: Hello everyone! Today, we will be giving a short demo on our project done for the Hack In Place 2021 Hackathon Theme of Education. During the transition to onlien learning, many professors have noticed that their students are doing worse online. In addition, many teachers are not not able to fully gauge their student's level of understanding remotely. This project serves as an potential solution to the mentioned problems. 
+<b>Possible Introduction<b>: Hello everyone! Today, we will be giving a short demo on our project done for the Hack In Place 2021 Hackathon Theme of Education. During the transition to online learning, many professors have noticed that their students are doing worse online. In addition, many teachers are not not able to fully gauge their student's level of understanding remotely. This project serves as an potential solution to the mentioned problems. 
  
 Our software will use existing face_cascade and eye_cascade classifiers to identify student faces and eyes. When we detect faces, the faces object is an array with potential sub-arrays consisting of four numbers: X, Y, width, and height of the detected face. We will draw a rectangle with the following information to denote 
 
